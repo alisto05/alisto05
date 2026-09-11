@@ -8,7 +8,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alisto05&show_icons=true)
 
-![Tech](https://skillicons.dev/icons?i=py,git,github,java)
+![Tech](https://skillicons.dev/icons?i=py,github,java)
 <!--
 **alisto05/alisto05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
