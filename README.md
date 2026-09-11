@@ -8,8 +8,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisto05&theme=react-dark)
 
-![Contributions](https://streak-stats.demolab.com/?user=alisto05&hide_longest_streak=true&theme=dark&hide_border=true&background=transparent)
-
 ![Tech](https://skillicons.dev/icons?i=py,github,java)
 <!--
 **alisto05/alisto05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
