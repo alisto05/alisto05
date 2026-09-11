@@ -6,7 +6,7 @@
 - CS & Maths Student
 - Still Learning - most of this is "learning by doing"
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alisto05&show_icons=true)
+![Stats](https://github-readme-stats-sigma-black.vercel.app/api?username=alisto05&show_icons=true)
 
 ![Tech](https://skillicons.dev/icons?i=py,github,java)
 <!--
