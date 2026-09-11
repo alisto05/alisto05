@@ -8,7 +8,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisto05&theme=react-dark)
 
-![Total Contributions](https://streak-stats.demolab.com/?user=alisto05&hide_current_streak=true&hide_longest_streak=true)
+![Contributions](https://streak-stats.demolab.com/?user=alisto05&hide_current_streak=true&hide_longest_streak=true&theme=dark&hide_border=true)
 
 ![Tech](https://skillicons.dev/icons?i=py,github,java)
 <!--
