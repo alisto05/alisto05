@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4A00E0&height=300&text=Hi,+it's+Alisto+here&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4A00E0&height=300&text=Hi,+it's+Alisto+here&fontSize=70&fontColor=FFFFFF&fontFamily=Poppins)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Mathematics+Student;Still+learning+the+ropes)
 
