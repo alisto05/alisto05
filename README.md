@@ -1,4 +1,5 @@
 ## Hi, It's Alisto here!! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:16213E&height=200&text=Hi,+it's+Alisto+here&fontSize=40)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Mathematics+Student;Still+learning+the+ropes)
 
