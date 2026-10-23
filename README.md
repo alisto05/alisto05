@@ -1,8 +1,6 @@
-![Animated Header](https://capsule-render.vercel.app/api?type=waving&color=0:090014,30:2C3E50,70:4A00E0,100:9D50BB&height=250&section=header&text=It's%20Alisto%20Here&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Curiosity%20%E2%80%A2%20Code%20%E2%80%A2%20Mathematics&descSize=18&descAlignY=58&animation=fadeIn)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=9D50BB&center=true&vCenter=true&width=650&height=100&lines=Computer+Science+%26+Mathematics;Learning+by+building+real+things;Breaking+problems+into+solutions;One+commit+at+a+time...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=9D50BB&center=true&vCenter=true&width=650&height=100&lines=Computer+Science+%26+Mathematics;Python+Learner+%26+Developer;Learning+by+building+real+things;One+commit+at+a+time...)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/alisto05?style=for-the-badge&logo=github&color=4A00E0&label=FOLLOWERS)](https://github.com/alisto05)
 [![Profile Views](https://komarev.com/ghpvc/?username=alisto05&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS)](https://github.com/alisto05)
@@ -16,25 +14,30 @@
 ```text
 Name       : Alisto
 Focus      : Computer Science & Mathematics
+Main tool  : Python
 Mindset    : Learn → Build → Break → Fix → Repeat
 Philosophy : Understanding matters more than memorising.
 ```
 
 I'm a Computer Science and Mathematics student exploring the connection between logical thinking, mathematical ideas, and software development.
 
-I don't know everything yet, and that's the point. I'm here to learn, experiment, solve problems, and turn what I learn into something real.
+I'm learning by doing: experimenting, solving problems, and turning what I learn into practical projects.
 
-> *Every expert was once a beginner who refused to stop.*
+> *Still learning. Still building. Still becoming.*
 
 ---
 
-## `~/tech-stack`
+## `~/tools-and-tech`
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,git,github,vscode,linux,docker,mysql&theme=dark&perline=7)
+![Tools I Use](https://skillicons.dev/icons?i=python,docker,git,github,vscode&theme=dark&perline=5)
 
 </div>
+
+**Primary language:** Python
+
+I've also worked with Java, but Python is currently the language I use most.
 
 ---
 
@@ -73,8 +76,6 @@ I don't know everything yet, and that's the point. I'm here to learn, experiment
 
 <div align="center">
 
-### *Still learning. Still building. Still becoming.*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,50:4A00E0,100:090014&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9D50BB,50:4A00E0,100:090014&height=100&section=footer&animation=twinkling)
 
 </div>
