@@ -4,7 +4,7 @@
 
 </div>
 
-## `whoami`
+## `Who Am I`
 
 ```text
 Name       : Alisto
@@ -18,7 +18,7 @@ I'm a Computer Science and Mathematics student exploring the connection between 
 
 I'm learning by doing: experimenting, solving problems, and turning what I learn into practical projects.
 
-## `~/tools-and-tech`
+## `tools and tech`
 
 <div align="center">
 
@@ -28,7 +28,7 @@ I'm learning by doing: experimenting, solving problems, and turning what I learn
 
 **Primary language: Python.** I've also worked with Java, but Python is the language I use most.
 
-## `~/github-stats`
+## `github stats`
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I'm learning by doing: experimenting, solving problems, and turning what I learn
 
 </div>
 
-## `~/contribution-activity`
+## `contribution activity`
 
 <div align="center">
 
@@ -47,7 +47,7 @@ I'm learning by doing: experimenting, solving problems, and turning what I learn
 
 </div>
 
-## `~/current-mission`
+## `current mission`
 
 - Strengthening my programming and problem-solving skills.
 - Exploring algorithms, data structures, and software engineering.
