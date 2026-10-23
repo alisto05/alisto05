@@ -32,7 +32,11 @@ I'm learning by doing: experimenting, solving problems, and turning what I learn
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alisto05&show_icons=true&theme=radical&hide_border=true&bg_color=0d0b1a" alt="GitHub stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisto05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D50BB&icon_color=4A00E0&text_color=C9D1D9&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisto05&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D50BB&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alisto05&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D50BB&fire=4A00E0&currStreakLabel=9D50BB)
 
 </div>
 
