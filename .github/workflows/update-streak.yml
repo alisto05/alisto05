@@ -1,1 +1,44 @@
 
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      - name: Generate streak stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: >-
+            user=alisto05&theme=dark&hide_border=true&background=0D1117&ring=9D50BB&fire=4A00E0&currStreakLabel=9D50BB&currStreakNum=9D50BB&sideNums=9D50BB&sideLabels=C9D1D9&stroke=30363D
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated stats
+        run: |
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "Update GitHub streak stats"
+          git push
